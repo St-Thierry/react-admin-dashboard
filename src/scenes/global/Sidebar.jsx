@@ -110,7 +110,7 @@ const Sidebar = () => {
                   Damilare Abogunrin
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  Front End Dev
                 </Typography>
               </Box>
             </Box>
